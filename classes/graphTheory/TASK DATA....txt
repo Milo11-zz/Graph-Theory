@@ -1,0 +1,34 @@
+ //TASK - Set the following buttons to be disabled - add vertex,
+ //add edge, show graph, save graph
+
+ //TASK - add the following to leftPanel (in order) - newButton,
+ //loadGraphButton, addVertexButton, addEdgeButton, showGraphButton, saveGraphButton
+
+ //TASK - set an integer named response to be YES_OPTION from JOptionPane
+ 
+ //TASK - exit the function
+
+//TASK - set the following buttons to be disabled - showGraph,
+//addEdge, and saveGraph. Set addVertex to be enabled.
+
+  //TASK - call revisualize with true
+ //TASK - use name to create a new vertex named v
+ //TASK - check to see if graph already contains v //if not, add it
+ //TASK - enable the showGraphButton
+ //TASK - if the graph has more than one vertex, enable
+ //the addEdge button
+ //TASK - enable the save graph button
+ //TASK - since a vertex was added we must reset the locations of
+ //all vertices, so call revisualize with true
+ //TASK - revisualize, with false
+ //TASK - set the title of the window to be Graph Creator - <name of graph>
+ //TASK - if the graph has any vertices enable the show graph
+ //and save graph buttons, otherwise disable them both
+ //TASK - if the graph has more than one vertex, enable the
+ //add edge button, otherwise disable it
+ //TASK - enable the add vertex button
+ //TASK - revisualize. Since it is a completely different graph,
+ //reset vertex positions by using true as an argument
+ //TASK - make the GUI visible
+ //TASK - set graph to be a new Graph using the input name
+ //TASK - set the title of this window to be Graph Creator - <input name>
